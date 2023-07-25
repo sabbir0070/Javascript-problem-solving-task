@@ -22,4 +22,4 @@ function findMostFrequentElement(arr) {
 // Test the function
 const inputArray = [3, 5, 2, 5, 3, 3, 1, 4, 5];
 const mostFrequent = findMostFrequentElement(inputArray);
-console.log(mostFrequent);
+console.log(mostFrequent); // Output : 3

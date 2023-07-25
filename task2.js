@@ -9,4 +9,4 @@ total_sum= total_sum + num;
 return total_sum;
 }
 const numbers = [2,-5,10,-3,7];
-console.log(positive(numbers));
+console.log(positive(numbers)); // Output : 19

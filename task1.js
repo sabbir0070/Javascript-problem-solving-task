@@ -8,4 +8,4 @@ output = output + str[i]
 return output;
 }
 
-console.log(reverseStr(str));
+ console.log(reverseStr(str));  // Output : "dlrow olleh"
